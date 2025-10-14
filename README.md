@@ -1,3 +1,5 @@
+<img src="https://github.com/ry-ops/pulseway-mcp-server/blob/main/pulseway_mcp_server.png" width="100%">
+
 # Pulseway MCP Server
 
 A Model Context Protocol (MCP) server that integrates Claude AI with the Pulseway PSA (Professional Services Automation) API. This server enables Claude to interact with your Pulseway PSA instance to manage tickets, invoices, opportunities, time logs, and more.
